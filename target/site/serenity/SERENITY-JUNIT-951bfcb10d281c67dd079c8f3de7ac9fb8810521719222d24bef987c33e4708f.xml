@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Enviar correo electr�nico" skipped="0" tests="1" time="42.01" timestamp="2020-08-04 02:02:21"><testcase name="Enviar correo exitosamente"><failure message="&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+stepDefinitions.SendMailStepDefinition.se_debe_enviar_el_correo_correctamente(SendMailStepDefinition.java:47)&#13;
+✽.se debe enviar el correo correctamente(src/test/resources/features/EnviarCorreo.feature:8)&#13;
+</system-err></testcase></testsuite>
